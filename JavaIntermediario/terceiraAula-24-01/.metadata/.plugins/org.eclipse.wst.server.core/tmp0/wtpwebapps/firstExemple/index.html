@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Tela de Consulta</title>
+</head>
+<script type="text/javascript">
+	function pulaLinha(){
+		document.write("<br>");
+	}
+</script>
+<body>
+	<form action="Student" method="post">
+		Matrícula: <input type="text" name="textRegistration" />
+		<script>pulaLinha();</script>
+		Nome: <input type="text" name="textName" />
+		<script>pulaLinha();</script>
+		Nota Teste: <input type="text" name="textTest" />
+		<script>pulaLinha();</script>
+		Nota Prova: <input type="text" name="textExam" />
+		<script>pulaLinha();</script>
+		<input type="submit" value="Enviar"/>
+		<input type="reset" value="Limpar"/>
+	</form>
+</body>
+</html>

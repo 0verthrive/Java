@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<div>
+		<div>
+			<form action="ControllEmployee" method="post">
+				Funcionário:<input type="text" name="textName"><br>
+				Matrícula:<input type="text" name="textReg"><br>
+				Salário Bruto:<input type="text" name="textGS"><br>
+				<input type="submit" value="Calcular">
+				<input type="reset" value="Apagar">
+			</form>
+		</div>
+	</div>
+</body>
+</html>

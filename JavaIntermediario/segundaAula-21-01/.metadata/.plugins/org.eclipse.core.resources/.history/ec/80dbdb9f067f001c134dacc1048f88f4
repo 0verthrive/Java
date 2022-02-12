@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<div class="container">
+	<form action="ControllStudent" method="post">
+		Digite seu nome:
+		<input type="text" name="textName"><br>
+		Digite a nota do teste:
+		<input type="text" name="textTest"><br>
+		Digite a nota da prova:
+		<input type="text" name="textExam"><br>
+		<input type="submit" value="Enviar">
+		<input type="reset" value="Cancelar">
+	</form>
+</div>
+</body>
+</html>

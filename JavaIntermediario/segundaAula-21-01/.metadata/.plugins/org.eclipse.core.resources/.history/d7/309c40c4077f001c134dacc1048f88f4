@@ -1,0 +1,11 @@
+package Model;
+
+public class Employee {
+	private String name;
+	private Integer registration;
+	private Double grossSalary;
+	
+	public Employee () {}
+	
+	
+}

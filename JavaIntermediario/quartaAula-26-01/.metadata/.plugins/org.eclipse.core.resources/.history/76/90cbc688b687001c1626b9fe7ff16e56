@@ -1,0 +1,14 @@
+package Processo;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		final String url = "jdbc:mysql://localhost:3306/test";
+		final String user ="root";
+		final String password ="Pipinha";
+		final String driverBanco = "com.mysql.jdbc.Driver";
+		
+		
+	}
+
+}

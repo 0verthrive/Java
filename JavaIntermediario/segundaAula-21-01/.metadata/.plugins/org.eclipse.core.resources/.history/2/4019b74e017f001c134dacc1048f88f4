@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="ControllPeople" method="post">
+		<p>Digite seu Estado: </p>
+		<input type="text" name="textState"/>
+		<input type="submit" value="Enviar"/>
+		<input type="reset" value="Cancelar"/>
+	</form>
+</body>
+</html>

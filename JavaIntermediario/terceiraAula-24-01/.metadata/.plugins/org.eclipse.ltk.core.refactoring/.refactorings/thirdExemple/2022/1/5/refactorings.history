@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Data.DatabaseExample&apos; to &apos;DBStudent&apos;&#x0D;&#x0A;- Original project: &apos;thirdExemple&apos;&#x0D;&#x0A;- Original element: &apos;Data.DatabaseExample&apos;&#x0D;&#x0A;- Renamed element: &apos;Data.DBStudent&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DatabaseExample&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;Data{DatabaseExample.java[DatabaseExample" matchStrategy="1" name="DBStudent" qualified="false" references="true" similarDeclarations="false" stamp="1643324308276" textual="false" version="1.0"/>
+</session>
